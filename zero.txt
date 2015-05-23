@@ -1,2 +1,9 @@
 babaababababaalkansclkasnd;sdafnlkdsanf
-dsfjds;lkafjaslkdvclkvmlkzmvavgiajfg[if
+這種分支與合併的情形，
+在 Git 版本控管的過程中無所不在，
+你可以從遠端任何一個分支合併(pull)到本地分支，
+也可以將本地的分支推向(push)遠端的分支，
+你當然也可以從本地任何一個分支合併(merge)到本地的另一個分支。
+可以想見，如果「分支」沒有一套良好的控管邏輯，
+最後可以組合出各種極其複雜的版本控管使用情境，這也不是大家所樂見的。
+因此，好好學會「分支」與「合併」真的非常重要。
